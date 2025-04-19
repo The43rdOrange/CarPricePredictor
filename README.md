@@ -1,2 +1,3 @@
-# CarPricePredictor
-Predicts the price of vehicles with in the uk
+This website will predict the price of vehicles in the future
+
+It also uses react
